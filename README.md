@@ -1,4 +1,4 @@
-#  EX 01-Mean and variance of a discrete  distribution
+#  EX 01: Mean and variance of a discrete  distribution
 
 
 # Aim : 
